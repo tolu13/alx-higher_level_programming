@@ -1,4 +1,6 @@
-splay a Rectangle class."""
+#!/usr/bin/python3
+
+"""this display a Rectangle class."""
 
 
 class Rectangle:
