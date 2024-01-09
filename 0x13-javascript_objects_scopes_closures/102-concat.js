@@ -20,4 +20,3 @@ fileC !== undefined
   stream.write(fileBContent);
   stream.end();
 }
-
