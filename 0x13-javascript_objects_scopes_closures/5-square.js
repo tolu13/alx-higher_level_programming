@@ -3,6 +3,7 @@
 /**
 * this class defines a square that inherits from rectangle
 */
+const Rectangle = require('./4-rectangle');
 
 class Square extends Rectangle {
   constructor (size) {
